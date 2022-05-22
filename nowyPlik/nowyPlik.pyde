@@ -63,3 +63,5 @@ def draw():
     mama.display()
     dziecko.bieg()
     dziecko.display()
+    
+# ciekawe ćwiczenie, ale nie ma tu dziedziczenia, 0,75 pkt
